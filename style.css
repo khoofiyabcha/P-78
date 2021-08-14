@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: linear-gradient( lightblue , white , lightgreen);
+}
+#heading {
+    text-shadow: 5px;
+    font-weight: bold;
+}
+#name {
+    text-shadow: 5px;
+    font-weight: bold;
+}
